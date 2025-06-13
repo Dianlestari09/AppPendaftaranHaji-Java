@@ -75,7 +75,9 @@ Gantilah mysql-connector-java-8.x.x.jar dengan nama file JDBC Anda.
 
 💡 Contoh Output
 Tampilan
-[Screenshot (376)](https://github.com/user-attachments/assets/7e6ae265-a8f7-49a3-acca-16f20d836a89)
+![Laman Utama](https://github.com/user-attachments/assets/6e3473a3-c6ca-4eb6-9111-aa1d5abe8826)
+![Login](https://github.com/user-attachments/assets/37e151fb-228b-47ae-8d55-d37fb50f9814)
+[Data](https://github.com/user-attachments/assets/7e6ae265-a8f7-49a3-acca-16f20d836a89)
 
 Jika koneksi sukses:
 🟢 Pop-up: "Koneksi Database Sukses"
